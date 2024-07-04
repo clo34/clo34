@@ -1,4 +1,4 @@
-# Hey, I'm Charles Lo 👋
+# Hey, I'm Charles 👋
 
 ### Undergrad at the University of Wisconsin 🦡
 - Majoring in Physics and Computer Science
