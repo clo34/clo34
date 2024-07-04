@@ -18,7 +18,7 @@
 - **Robotics & Data Science**: NumPy,  OpenCV, TensorFlow, Pandas
 
 ### Statistics 📈
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=clo34&show_icons=true&theme=radical)
 
 ---
 
