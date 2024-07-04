@@ -11,7 +11,7 @@
 - **Current Project**: Team member of Wisconsin Autonomous, and SWE Intern @Cloud9 Esports
 
 ### Languages & Technology 💻
-- **Programming Languages**: Java, JavaScript, C, C++, Python, HTML, CSS
+- **Programming Languages**: Java, JavaScript, C, C++, Verilog, Python, HTML, CSS
 - **Frontend**: React, React Router, GSAP, Sass
 - **Backend**: Node.js, Firebase
 - **DevOps & Tools**: GitHub Actions, Git, Gitlab
