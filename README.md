@@ -17,9 +17,4 @@
 - **DevOps & Tools**: GitHub Actions, Git, Gitlab
 - **Robotics & Data Science**: NumPy,  OpenCV, TensorFlow, Pandas
 
-### Statistics 📈
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=clo34&show_icons=true&theme=radical)
-
----
-
 Feel free to reach out if you want to collaborate on projects or just have a chat about technology and robotics!
