@@ -2,7 +2,7 @@
 
 ### Undergrad at the University of Wisconsin 🦡
 - Majoring in Physics and Computer Science
-- Passionate about RF Engineering, Computer Vision, UX/UI Design, and Low Level Porgramming (Firmware / Embeded Systems)
+- Passionate about RF Engineering, UX/UI Design, HCI, and Low Level Porgramming (Firmware / Embeded Systems)
 
 ### Interests
 - **Robotics**: Planning, Control, Computer Vision
