@@ -12,8 +12,7 @@ Currently navigating the world of **ECE + startups**, and always looking for the
 ---
 
 ## 💼 Current Work  
-- ⚡ **Founder @ ÜJIN Media** - Building an AI-powered **frontend code assistant** that turns natural language into HTML/CSS/JS/React.  
-   - Raised **$500K in funding**.  
+- ⚡ **Founder @ ÜJIN Media** - Building an AI-powered **frontend code assistant** that turns natural language into HTML/CSS/JS/React.   
    - Focus: lowering the barrier for developers & designers with AI + web tooling.  
 
 - 🎯 Exploring **Design Verification (DV)** roles - with a long-term interest in working in the realms of digital circuit design.  
